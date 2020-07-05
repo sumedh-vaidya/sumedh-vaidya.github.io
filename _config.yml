@@ -1,2 +1,3 @@
 name: Hi there, I'm Sam Vaidya!
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
